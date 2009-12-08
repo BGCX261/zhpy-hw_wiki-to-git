@@ -1,5 +1,6 @@
 #summary 例外處理
 #labels Traditional
+#sidebar SideToc
 
 = 簡介 =
 
