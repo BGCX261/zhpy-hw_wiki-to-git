@@ -1,5 +1,6 @@
 #summary 進一步瞭解
 #labels Traditional
+#sidebar SideToc
 
 = 簡介 =
 
