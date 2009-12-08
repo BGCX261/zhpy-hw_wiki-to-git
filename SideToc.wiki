@@ -1,5 +1,6 @@
   * [ZhpyIntroduction 專案簡介]
   * [CodingStyle 風格]
+  * [ZhpyPrinciple]
 
 * 咬一口 Python 程式語言
   * [IntroZhpy  簡介]
