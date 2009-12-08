@@ -1,5 +1,6 @@
 #summary 運算符號和表達式
 #labels Traditional
+#sidebar SideToc
 
 = 簡介 =
 
