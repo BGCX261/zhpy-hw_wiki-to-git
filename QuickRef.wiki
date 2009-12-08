@@ -1,5 +1,6 @@
 #summary 快速語法參考手冊
 #labels Traditional,Featured,Simplified
+#sidebar SideToc
 
 = 簡介 =
 
