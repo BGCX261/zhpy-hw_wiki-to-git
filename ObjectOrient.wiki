@@ -1,5 +1,6 @@
 #summary 物件導向程式設計
 #labels Traditional
+#sidebar SideToc
 
 = 簡介 =
 
