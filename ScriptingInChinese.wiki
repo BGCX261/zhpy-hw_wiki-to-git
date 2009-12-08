@@ -1,5 +1,6 @@
 #summary 使用周蟒當作中文腳本語言
 #labels Traditional,Featured
+#sidebar SideToc
 
 = 中文腳本語言 =
 
