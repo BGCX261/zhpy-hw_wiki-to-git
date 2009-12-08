@@ -1,5 +1,6 @@
 #summary python 中嵌入中文程式
 #labels Traditional,Featured
+#sidebar SideToc
 
 = 嵌入 Python 程式中執行 : zh_exec =
 
