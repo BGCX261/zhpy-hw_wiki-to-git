@@ -1,5 +1,6 @@
 #summary 完整繁英, 簡英關鍵詞對應表
 #labels keywords,Featured
+#sidebar SideToc
 
 = 語言關鍵詞 KeyWords =
 
