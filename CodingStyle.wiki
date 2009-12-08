@@ -1,5 +1,6 @@
 #summary 周蟒程式哲學與風格
 #labels Featured,Traditional
+#sidebar SideToc
 
 對編程語言的選擇態度:
 
