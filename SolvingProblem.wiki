@@ -1,5 +1,6 @@
 #summary 解決問題
 #labels Traditional
+#sidebar SideToc
 
 = 簡介 =
 
