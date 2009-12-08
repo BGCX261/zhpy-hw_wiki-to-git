@@ -13,7 +13,7 @@
 
 {{{
 $ python interpreter.py
-zhpy 1.3 in darwin on top of Python 2.5.1
+zhpy X.X in darwin on top of Python 2.X.X
 >>>
 }}}
 
@@ -24,7 +24,7 @@ zhpy 1.3 in darwin on top of Python 2.5.1
 
 {{{
 $ python interpreter.py
-zhpy 1.3 in darwin on top of Python 2.5.1
+zhpy X.X in darwin on top of Python 2.X.X
 >>> 印出 '哈囉, 世界'
 哈囉
 }}}
