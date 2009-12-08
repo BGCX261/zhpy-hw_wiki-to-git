@@ -49,7 +49,7 @@ Python 程式語言屬於自由軟體，您不需為了使用 PYthon 程式語�
 
 {{{
 $ python -V
-Python 2.5.2
+Python 2.x.x
 }}}
 
 註釋: '$' 符號是命令列程式的提示符號。出現的符號與你的系統設定有關。本書中一律以 '$' 符號表示。
@@ -71,7 +71,7 @@ bash: python: command not found
     * 或者你可以下載打包好的套件(如 .deb 或 .rpm 檔)後直接安裝。
     * 你也可以自行編譯 python 程式語言軟體的程式碼並安裝. 在 python 語言軟體的原始碼中有說明編譯的步驟. http://www.python.org/download/
 
-在 Ubuntu 7.04 以上版本已經內建了 Python 2.5.1。
+在 Ubuntu 7.04 以上版本已經內建了 Python 2.x。
 
 == 安裝在 Mac 作業系統上 ==
 
@@ -84,7 +84,12 @@ bash: python: command not found
 
 在更舊版本的 Mac 作業系統上， 請造訪 MacPython 官方網站並下載適合你的作業系統版本的 .dmg 檔。 掛載(mount)起這個磁碟檔並執行安裝程式即可. http://homepages.cwi.nl/~jack/macpython/download.html
 
-在最新的 Mac OS X 10.5 上已經內建了 Python 2.5.1 與 easy_install 等相關工具。
+在 Mac OS X 上已經內建了 Python 與 easy_install 等相關工具。
+
+要在命令行中能使用自動完成功能，請安裝 readline 模組
+{{{
+$ sudo easy_install readline
+}}}
 
 = 2. 安裝周蟒模組 =
 
@@ -142,7 +147,7 @@ $ sudo easy_install zhpy
 開啟一個命令列 (Shell) 程式 (如 konsole 或 gnome-terminal)， 輸入命令 'zhpy -V'。
 {{{
 $ zhpy -V
-zhpy 1.x on python 2.5.2
+zhpy 1.x on python 2.x.x
 }}}
 
 現在我們假設你也已經在你的作業系統上準備好了 Python 與周蟒語言軟體。
