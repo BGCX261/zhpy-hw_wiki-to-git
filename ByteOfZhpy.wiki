@@ -1,5 +1,6 @@
 #summary 咬一口 Python 程式語言
 #labels Traditional,Featured
+#sidebar SideToc
 
 = 簡介 =
 
