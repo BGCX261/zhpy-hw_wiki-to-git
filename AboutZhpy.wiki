@@ -1,5 +1,6 @@
 #summary 關於周蟒 (zhpy)
 #labels Featured,Traditional
+#sidebar SideToc
 
 = 關於周蟒 =
 
