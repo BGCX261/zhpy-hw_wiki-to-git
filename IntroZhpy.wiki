@@ -1,5 +1,6 @@
 #summary 簡介
 #labels Traditional
+#sidebar SideToc
 
 Python 語言是少數能理直氣壯地宣稱自己是「既簡單又強大」的程式語言。 
 
