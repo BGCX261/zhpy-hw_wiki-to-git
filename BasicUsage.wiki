@@ -1,5 +1,6 @@
 #summary 周蟒命令行的基本操作
 #labels Traditional,Featured
+#sidebar SideToc
 
 = 預備 =
 
