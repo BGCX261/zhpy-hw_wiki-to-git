@@ -1,6 +1,6 @@
 #summary 版本更新紀錄
 #sidebar SideToc
 
-You could check zhpy's change log in svn
+You could check zhpy's change log in repository
 
 http://zhpy.googlecode.com/hg/CHANGELOG.txt
