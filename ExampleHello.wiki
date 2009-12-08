@@ -1,5 +1,6 @@
 #summary 學習程式的第一個範例
 #labels Traditional,Example
+#sidebar SideToc
 
 = 簡介 =
 
