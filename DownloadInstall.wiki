@@ -1,5 +1,6 @@
 #summary 周蟒安裝指南
 #labels Featured,Traditional
+#sidebar SideToc
 
 = 1. 安裝 Python 程式語言 =
 
