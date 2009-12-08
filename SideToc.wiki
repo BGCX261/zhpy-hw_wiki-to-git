@@ -2,7 +2,7 @@
   * [CodingStyle 風格]
   * [ZhpyPrinciple 原則]
 
-* 咬一口 Python 程式語言
+* [ByteOfZhpy 咬一口 Python 程式語言]
   * [IntroZhpy  簡介]
   * [DownloadInstall 下載與安裝]
   * [ExampleHello 學習程式的第一個範例]
