@@ -1,5 +1,6 @@
 #summary 輸入， 輸出
 #labels Traditional
+#sidebar SideToc
 
 = 簡介 =
 
