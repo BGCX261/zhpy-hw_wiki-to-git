@@ -1,5 +1,6 @@
 #summary 周蟒的簡介
 #labels Featured
+#sidebar SideToc
 
 = 簡介 =
 
