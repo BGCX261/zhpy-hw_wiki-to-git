@@ -251,20 +251,22 @@ code name: Death Thirteen
 
  * python 2.6 compatibility
 
-== 1.8 (12//2009)  ==
+== 1.7.3 (12/08/2009) ==
 
 code name: Judgement
 
- * update Byte of Zhpy
+ * Move repository to mercurial
+＊Update docs layout
+
 
 == TODO  ==
 
+ * *plugin with namespace*
+ * windows installer
+ * Android, IronPython, jython, pythonce, s60py support
  * pygments syntax highlighter with 'zhpy'
  * add keyword convertor between traditional chinese and simplified chinese
  * compatible editor
- * windows installer
- * *plugin with namespace*
- * IronPython, jython, pythonce, s60py support
  * Pickle the keyword dict to increase the bootstrap speed 
  * eval the itertools-based rev_dict
  * Simplified Chinese version of *Byte of zhpy on python* Book
@@ -281,6 +283,7 @@ code name: Qin (秦蟒)
 code name: Han (漢蟒)
 
  * python 3000 compatible
+ * work with pyparsing 3
 
 = Preserved code name =
 
