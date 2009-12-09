@@ -1,5 +1,5 @@
 #summary 周蠎相关艺术创作
-#labels Featured,Simplified
+#labels Simplified
 
 = Logo =
 
@@ -11,4 +11,3 @@ http://foto.zoomquiet.org/logo/zhpy/zhpy-logo-idea.png
  * 标准logo |  单色版本 |  厚壮版本 | 对比
 
 http://foto.zoomquiet.org/logo/zhpy/zhpy-logo-3.png
-
