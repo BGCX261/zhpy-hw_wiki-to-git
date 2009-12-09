@@ -253,10 +253,16 @@ code name: Death Thirteen
 
 == 1.7.3 (12/08/2009) ==
 
-code name: Judgement
+code name: Justice
 
  * Move repository to mercurial
+ * Partial Android(ASE) support
 ＊Update docs layout
+
+== 1.7.3 (1//2010) ==
+
+code name:  Judgement
+
 
 
 == TODO  ==
