@@ -282,7 +282,7 @@ code name:  Judgement
 == 2.0 (Unscheduled) ==
 code name: Qin (秦蟒)
 
- * Remap the architecture to easily support Multiple Language (such as jp, kr)
+ * Remap the architecture to easily support Multiple Language (such as jp, kr, or old-chinese)
 
 == 3.0 (Unscheduled) ==
 
