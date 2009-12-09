@@ -259,7 +259,7 @@ code name: Justice
  * Partial Android(ASE) support
 ＊Update docs layout
 
-== 1.7.3 (1//2010) ==
+== 1.8 (1//2010) ==
 
 code name:  Judgement
 
