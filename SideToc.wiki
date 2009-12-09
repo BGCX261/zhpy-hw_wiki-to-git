@@ -11,7 +11,7 @@
   * [ScriptingInChinese 中文腳本語言]
   * [ZhpyArt  Logo]
   * [MakeContribution 參與專案]
-  * [ChangeLog 版本更新紀錄]
+  * [RoadMap 版本規劃]
 
 * [ByteOfZhpy 咬一口 Python 程式語言]
   * [IntroZhpy  簡介]
