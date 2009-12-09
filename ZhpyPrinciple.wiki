@@ -1,5 +1,4 @@
 #summary 周蟒的原則：四不一沒有
-#labels Featured
 #sidebar SideToc
 
   * 一不：不強求完全的中文編程
