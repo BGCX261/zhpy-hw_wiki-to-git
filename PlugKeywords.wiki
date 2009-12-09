@@ -1,5 +1,5 @@
 #summary 外掛 ini 關鍵詞典檔
-#labels Featured,Traditional
+#labels Traditional
 #sidebar SideToc
 
 周蟒本身只內建基本關鍵詞對應，但可以透過外掛 ini 字典檔來達成純中文編程的目的。
