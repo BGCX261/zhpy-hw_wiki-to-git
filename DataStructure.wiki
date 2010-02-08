@@ -181,7 +181,7 @@ zoo = ('wolf', 'elephant', 'penguin')
 print 'Number of animals in the zoo is', len(zoo)
 new_zoo = ('monkey', 'dolphin', zoo)
 print 'Number of animals in the new zoo is', len(new_zoo)
-print 'All animals in new zoo are'， new_zoo
+print 'All animals in new zoo are', new_zoo
 print 'Animals brought from the old zoo are', new_zoo[2]
 print 'Last animal brought over from the old zoo is', new_zoo[2][2]
 }}}
@@ -294,7 +294,7 @@ Python 在這裡所做的是把元組中的每個項目轉換成字符串並且�
 注意，你只能使用不可變的物件（比如字符串）來作為字典的鍵，但是你可以用任何型態的物件當作字典的值。
 基本說來就是，你應該只使用簡單的對象作為鍵。
 
-在字典中我們以這樣的方式來標記鍵與值的配對：d = {key1 : value1， key2 : value2 }。
+在字典中我們以這樣的方式來標記鍵與值的配對：d = {key1 : value1, key2 : value2 }。
 所有字典中的配對都包括在大括弧中，注意鍵與值的配對是使用冒號來作分隔，而各配對則是使用逗號來分隔。
 
 字典中鍵與值的配對是沒有順序的。如果你想要一個特定的順序，那麼你應該在使用前自己對它們排序。
@@ -354,7 +354,7 @@ ab['Guido'] = 'guido -at- python.org'
 del ab['Spammer']
 print '\nThere are %d contacts in the address book\n' % len(ab)
 for name, address in ab.items():
-    print 'Contact %s at %s' % (name， address)
+    print 'Contact %s at %s' % (name, address)
 if 'Guido' in ab: # OR ab.has_key('Guido')
     print "\nGuido's address is %s" % ab['Guido']
 }}}
@@ -429,7 +429,7 @@ $ zhpy seq.py
 項目 1 到 3 項是 ['芒果', '胡蘿蔔']
 項目從第 2 項開始是 ['胡蘿蔔', '香蕉']
 項目從 1 到 -1 項是 ['芒果', '胡蘿蔔']
-項目從開始項到結束項是 ['蘋果'， '芒果', '胡蘿蔔', '香蕉']
+項目從開始項到結束項是 ['蘋果', '芒果', '胡蘿蔔', '香蕉']
 從第 1 個到第 3 個字元是 wa
 從第 2 個到最後一個字元是 aroop
 從第 1 個到第 -1 個字元是 waroo
@@ -474,7 +474,7 @@ Item -2 is carrot
 Item from position 1 up to position 3 is ['mango', 'carrot']
 Item from position 2 up to end is ['carrot', 'banana']
 Item from position 1 up to position -1 is ['mango', 'carrot']
-Item from start up to end is ['apple'， 'mango', 'carrot', 'banana']
+Item from start up to end is ['apple', 'mango', 'carrot', 'banana']
 Characters from position 1 up to position 3 is wa
 Characters from position 2 up to end is aroop
 Characters from position 1 up to position -1 is waroo
@@ -585,7 +585,7 @@ mylist = shoplist # mylist is just another name pointing to the same object
 print 'shoplist is', shoplist
 print 'mylist is', mylist
 print 'Removing first item'
-del shoplist[0] # I purchased the first item， so I am removing it from the list
+del shoplist[0] # I purchased the first item, so I am removing it from the list
 print 'shoplist is', shoplist
 print 'mylist is', mylist
 # Notice that both shoplist and mylist both print the same list
