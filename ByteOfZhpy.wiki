@@ -20,6 +20,8 @@
 中文範例比起英文範例更容易閱讀，也易於理解其中的規則。
 我們可以忽略中文範例直接學習 Python，也可以透過周蟒直譯器執行這些 Python 語言的中文範例。
 
+[https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V69PVW95S8QVC https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif]
+
 = 目錄 =
 
   * [Foreword 前言] 
