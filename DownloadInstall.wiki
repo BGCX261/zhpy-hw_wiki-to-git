@@ -21,7 +21,7 @@ Python 程式語言屬於自由軟體，您不需為了使用 PYthon 程式語�
 
      * 註釋: 在安裝時請不要取消預設的勾選項目，有些項目會在之後的書中用到，比如 "IDLE" 這個 Python 程式語言的編輯器。
   
-   方法二：下載並安裝 [http://www.activestate.com/Products/activepython/ ActivePython 安裝程式]。 ActiveState 公司提供了另一個預先包裝好許多 Windows 環境下專用工具 (如 PythonWin) 的安裝版本。對 Windows 作業系統的使用者來說相當有用。
+   方法二：下載並安裝 [http://www.activestate.com/Products/activepython/downloads/ ActivePython 安裝程式]。 ActiveState 公司提供了另一個預先包裝好許多 Windows 環境下專用工具 (如 PythonWin) 的安裝版本。對 Windows 作業系統的使用者來說相當有用。
 
 註釋: [http://showmedo.com/videos/series?name=PythonDownloadInstallTest ShowMeDo.com 網站](英文)上有一些影片演示如何下載， 安裝，和執行 Python 環境。可供您參考。
 
