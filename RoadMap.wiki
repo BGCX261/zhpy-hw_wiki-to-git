@@ -259,11 +259,15 @@ code name: Justice
  * Partial Android(ASE) support
 ＊Update docs layout
 
-== 1.8 (1//2010) ==
+== 1.7.4 (6//2010) ==
 
-code name:  High Priestess
+code name: High Priestess
 
+* fix the windows/mac EOF exception
 
+== 1.8 (8//2010) ==
+
+to be done
 
 == TODO  ==
 
