@@ -6,7 +6,7 @@
 
 首先您需安裝 Python 程式語言。
 
-Python 程式語言屬於自由軟體，您不需為了使用 PYthon 程式語言，而付錢給某個公司以取得使用 python 程式語言的權利。
+Python 程式語言屬於自由軟體，您不需為了使用 Python 程式語言，而付錢給某個公司以取得使用 python 程式語言的權利。
 
 多數的作業系統都已經預先安裝好 Python 程式語言，除了 Windows 作業系統之外。
 有時候作業系統上所提供的預設版本可能稍微舊了一些。這時，你也許會想自行下載較新版本的 Python 程式語言。
@@ -24,6 +24,9 @@ Python 程式語言屬於自由軟體，您不需為了使用 PYthon 程式語�
    方法二：下載並安裝 [http://www.activestate.com/Products/activepython/downloads/ ActivePython 安裝程式]。 ActiveState 公司提供了另一個預先包裝好許多 Windows 環境下專用工具 (如 PythonWin) 的安裝版本。對 Windows 作業系統的使用者來說相當有用。
 
 註釋: [http://showmedo.com/videos/series?name=PythonDownloadInstallTest ShowMeDo.com 網站](英文)上有一些影片演示如何下載， 安裝，和執行 Python 環境。可供您參考。
+
+目前實際業界在使用的版本是 2.x 版, 本書範例全以 2.x 版撰寫。
+如果您要參考 3.x 版範例，請前往 http://www.swaroopch.com/notes/Python_en:Table_of_Contents 對照查看。
 
 === 透過 Windows 作業系統命令列使用 Python 語言 ===
 
