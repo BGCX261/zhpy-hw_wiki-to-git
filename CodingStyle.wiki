@@ -117,7 +117,7 @@ Python 程式語言的寫作風格以"清晰易讀"為優先考量。因此使�
 
    變量和函數的命名並沒有強制的規則，不過可以試著使用"類"(class)以"名詞"命名，"方法"(method)，函式(function)以動詞命名的規則。
 
-4. 像 Python 人一樣編程 
+4. 像 Python 人一樣編程（Pythonic）
    
    周蟒程式承繼 Python 程式固有的彈性，雖然你可以將周蟒寫得像在使用其他語言一般，但最好還是能寫得像 Python 程式。 [ByteOfZhpy 咬一口周蟒]，
    [http://python.net/~goodger/projects/pycon/2007/idiomatic/presentation.html Code Like a Pythonista] 都是很好的參考資料。
