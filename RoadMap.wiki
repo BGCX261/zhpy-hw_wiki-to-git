@@ -265,15 +265,11 @@ code name: High Priestess
 
 * fix the windows/mac EOF exception
 
-== 1.8 (8//2010) ==
-
-to be done
-
-== TODO  ==
+== zhpy TODO  ==
 
  * *plugin with namespace*
  * windows installer
- * Android, IronPython, jython, pythonce, s60py support
+ * Android, IronPython, jython support
  * pygments syntax highlighter with 'zhpy'
  * add keyword convertor between traditional chinese and simplified chinese
  * compatible editor
@@ -283,22 +279,24 @@ to be done
  * ship with Byte of zhpy example
  * support unicode string (u'')
 
-== 2.0 (Unscheduled) ==
-code name: Qin (秦蟒)
+== 3.0a1 (2011/06/25) ==
 
+code name: Tusk
+
+ * python 3 compatible
  * Remap the architecture to easily support Multiple Language (such as jp, kr, or old-chinese)
 
-== 3.0 (Unscheduled) ==
+== zhpy3 TODO  ==
 
-code name: Han (漢蟒)
-
- * python 3000 compatible
- * work with pyparsing 3
+* Interpreter
+* Import zhpy3 modules
+* Export to python3
+* Convert from python3
 
 = Preserved code name =
 
 Code names are digested from JoJo's Advanture
-http://www.giogio.cn/gh/stand/stand_value.htm
+http://zh.wikipedia.org/wiki/%E6%9B%BF%E8%BA%AB_(JoJo%E7%9A%84%E5%A5%87%E5%A6%99%E5%86%92%E9%9A%AA)
 
 [http://www.pycheesecake.org/ Cheesecake] is a 'mechanism' that guides and encourages relevant 'good practices'. 
  
