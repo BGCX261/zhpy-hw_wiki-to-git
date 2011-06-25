@@ -3,6 +3,23 @@
 
 = RoadMap =
 
+
+== 3.0a1 (2011/06/25) ==
+
+code name: Tusk
+
+ * python 3 compatible
+ * Remap the architecture to easily support Multiple Language (such as jp, kr, or old-chinese)
+
+== zhpy3 TODO  ==
+
+* Interpreter
+* Import zhpy3 modules
+* Export to python3
+* Convert from python3
+
+----
+
 == 0.2 (08/9/2007) ==
 
 code name: zhou (周蟒)
@@ -279,19 +296,7 @@ code name: High Priestess
  * ship with Byte of zhpy example
  * support unicode string (u'')
 
-== 3.0a1 (2011/06/25) ==
-
-code name: Tusk
-
- * python 3 compatible
- * Remap the architecture to easily support Multiple Language (such as jp, kr, or old-chinese)
-
-== zhpy3 TODO  ==
-
-* Interpreter
-* Import zhpy3 modules
-* Export to python3
-* Convert from python3
+----
 
 = Preserved code name =
 
