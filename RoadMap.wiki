@@ -13,11 +13,11 @@ code name: Tusk
 
 == zhpy3 TODO  ==
 
-* Interpreter
-* Import zhpy3 modules
-* Export to python3
-* Convert from python3
-
+ * Interpreter
+ * Import zhpy3 modules
+ * Export to python3
+ * Convert from python3
+ * Doc with sphinx
 ----
 
 == 0.2 (08/9/2007) ==
