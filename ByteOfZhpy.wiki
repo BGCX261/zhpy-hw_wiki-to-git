@@ -7,7 +7,7 @@
 「咬一口 Python 程式語言」(咬一口周蟒程式語言) 是適合用來學習 python 程式語言或用作 python 語言教學的電子書。
 
 此書的特色是以 Python 程式語言開放原始碼書籍
-[http://www.swaroopch.com/byteofpython A Byte of Python] 為基礎，*內含完整原始 python 碼對照*，並加入「中文」的程式範例與說明。是「A Byte of Python」的正式中文維護版本。
+[http://www.swaroopch.org/notes/Python A Byte of Python] 為基礎，*內含完整原始 python 碼對照*，並加入「中文」的程式範例與說明。是「A Byte of Python」的正式中文維護版本。
 定名為「咬一口 Python 程式語言」。
 
  语言版本:
