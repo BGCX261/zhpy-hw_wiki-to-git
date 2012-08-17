@@ -63,7 +63,7 @@ Hello World!
 {{{
 #!/usr/bin/env zhpy
 # 檔名: param.py
-def 印出最大值(甲, 乙):
+定義 印出最大值(甲, 乙):
     如果 甲 > 乙:
         印出 甲, '最大'
     否則:
