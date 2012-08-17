@@ -1,5 +1,6 @@
 #summary 控制流程
 #labels Traditional
+#sidebar SideToc
 
 = 簡介 =
 
